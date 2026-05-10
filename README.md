@@ -28,6 +28,6 @@ This is my profile where I'll be uploading some similar projects, experiments, a
 
 ---
 
-You can reach me through [![Email](https://img.shields.io/badge/turandemokan@email.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:turandemokan@gmail.com)
+You can reach me through [![Email](https://img.shields.io/badge/turandemokan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:turandemokan@gmail.com)
 
 Feel free to reach out if you want to collaborate!
