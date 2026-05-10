@@ -3,11 +3,11 @@ Hi there 👋
 
 I'm Demokan, Computer Engineering Student based in Istanbul.
 
-I mostly work on mobile development - React, TypeScript, Swift.
+I mostly work on mobile development - React Native, TypeScript, Swift.
 
-I also develop backend services for my personal projects time to time. - Java, SpringBoot , Python, FastAPI
+I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI
 
-This is the profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
+This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
 
 ---
 
