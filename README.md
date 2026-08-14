@@ -1,6 +1,10 @@
-<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" align="right" height="150" style="image-rendering: pixelated; margin-left: 10px;">
+<div align="center">
 
-Hi there, I'm Demokan 
+<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" height="260" style="image-rendering: pixelated;">
+
+</div>
+
+Hi there, I'm Demokan 👋
 
 I'm a Computer Engineering Student based in Istanbul.
 
@@ -9,8 +13,6 @@ I work on mobile development - React Native, TypeScript.
 I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI
 
 This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
-
-<br clear="right">
 
 ---
 
