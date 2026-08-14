@@ -53,8 +53,11 @@ This is my profile where I'll be uploading some similar projects, experiments, a
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Demokann&theme=dark)](https://git.io/streak-stats)
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Demokann)](https://git.io/streak-stats)
+
+</div>
 </div>
 
 ---
