@@ -1,25 +1,16 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" align="right" height="260" style="image-rendering: pixelated; margin-left: 20px;">
 
-<sub>Hi there, I'm Demokan 👋</sub>
+Hi there, I'm Demokan 
 
-<sub>I'm a Computer Engineering Student based in Istanbul.</sub>
+I'm a Computer Engineering Student based in Istanbul.
 
-<sub>I work on mobile development - React Native, TypeScript.</sub>
+I work on mobile development - React Native, TypeScript.
 
-<sub>I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI</sub>
+I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI
 
-<sub>This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.</sub>
+This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" width="240" style="image-rendering: pixelated;">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 ---
 
