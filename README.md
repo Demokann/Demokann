@@ -4,9 +4,7 @@
 
 </div>
 
-Hi there, I'm Demokan 👋
-
-I'm a Computer Engineering Student based in Istanbul.
+Hi there, I'm Demokan. I'm a Computer Engineering Student based in Istanbul.
 
 I work on mobile development - React Native, TypeScript.
 
