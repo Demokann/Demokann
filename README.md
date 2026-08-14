@@ -2,19 +2,15 @@
 <tr>
 <td width="60%" valign="top">
 
-<sub>
+<sub>Hi there, I'm Demokan 👋</sub>
 
-Hi there, I'm Demokan 
+<sub>I'm a Computer Engineering Student based in Istanbul.</sub>
 
-I'm a Computer Engineering Student based in Istanbul.
+<sub>I work on mobile development - React Native, TypeScript.</sub>
 
-I work on mobile development - React Native, TypeScript.
+<sub>I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI</sub>
 
-I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI
-
-This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
-
-</sub>
+<sub>This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.</sub>
 
 </td>
 <td width="40%" align="center">
