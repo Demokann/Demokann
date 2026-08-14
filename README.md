@@ -9,11 +9,8 @@
 <td width="60%" valign="top">
 
 I'm Demokan, Computer Engineering Student based in Istanbul.
-
 I work on mobile development - React Native, TypeScript.
-
 I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI
-
 This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
 
 </td>
@@ -47,20 +44,6 @@ This is my profile where I'll be uploading some similar projects, experiments, a
 #### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Computer_Networks-0078D4?style=flat&logo=cisco&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Demokann)](https://git.io/streak-stats)
-
-</div>
-</div>
-
----
 
 You can reach me through [![Email](https://img.shields.io/badge/turandemokan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:turandemokan@gmail.com)
 
