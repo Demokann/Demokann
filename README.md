@@ -1,4 +1,12 @@
-# Hi there, I'm Demokan 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&fontSize=40&fontColor=000000&fontAlignY=35&text=Hi%20there,%20I'm%20Demokan%20%F0%9F%91%8B&desc=&fontFamily=Times%20New%20Roman" width="100%">
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 I'm a Computer Engineering Student based in Istanbul.
 
@@ -8,11 +16,16 @@ I also build backend services for my personal projects. - Java/Spring Boot & Pyt
 
 This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
 
----
+</td>
+<td width="40%" align="center">
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" width="240" style="image-rendering: pixelated;">
+
+</td>
+</tr>
+</table>
+
+---
 
 ###  Tech Stack
 
@@ -33,15 +46,6 @@ This is my profile where I'll be uploading some similar projects, experiments, a
 
 #### 🌐 Networking
 ![Networking](https://img.shields.io/badge/Computer_Networks-0078D4?style=flat&logo=cisco&logoColor=white)
-
-</td>
-<td width="35%" align="center">
-
-<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" width="280" style="image-rendering: pixelated;">
-
-</td>
-</tr>
-</table>
 
 ---
 
