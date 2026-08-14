@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" align="right" height="260" style="image-rendering: pixelated; margin-left: 20px;">
+<img src="https://user-images.githubusercontent.com/58193125/151248816-b08a0c05-3179-49fb-8376-a0cf096c6e44.gif" align="right" height="150" style="image-rendering: pixelated; margin-left: 10px;">
 
 Hi there, I'm Demokan 
 
