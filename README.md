@@ -9,8 +9,11 @@
 <td width="60%" valign="top">
 
 I'm Demokan, Computer Engineering Student based in Istanbul.
+
 I work on mobile development - React Native, TypeScript.
+
 I also build backend services for my personal projects. - Java/Spring Boot & Python/FastAPI
+
 This is my profile where I'll be uploading some similar projects, experiments, and things I'm currently working on.
 
 </td>
